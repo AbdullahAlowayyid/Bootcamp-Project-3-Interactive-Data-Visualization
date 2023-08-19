@@ -1,12 +1,12 @@
-# Riyadh Villas Analysis - README
+# Riyadh Villas Analysis :house_with_garden: - README
 
-## Team Members and Duties
+## Team Members and Duties :busts_in_silhouette:
 
 - **Alaa Alsalman:** EDA, Data Visualization
 - **Abdullah Alowayyid:** EDA, Data Visualization
 - **Mohammed Almalky:** EDA, Data Visualization
 
-## Introduction (Problem, Objectives)
+## Introduction (Problem, Objectives) :dart:
 
 In this study, we investigate a dataset that contains analysis of around 47,000 villas in Riyadh, Saudi Arabia. With the help of data cleaning, processing, analysis, and visualization, we draw out some insightful information from the dataset.
 
@@ -43,7 +43,7 @@ The dataset contains information about villas in Riyadh as following:
 - **price:** price of the villa.
 - **square price:** price per square unit.
 
-## The final ten insights
+## The final ten insights :bar_chart:
 
 Here are ten insightful findings from our analysis:
 
